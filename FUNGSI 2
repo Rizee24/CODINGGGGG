@@ -1,0 +1,5 @@
+Function dalam bahasa pemrograman C++ adalah sebuah blok kode program yang ditulis
+untuk melakukan suatu tindakan tertentu atau mengembalikan nilai tertentu ketika
+dipanggil dari program utama atau dari fungsi lainnya. Function juga dapat menerima
+parameter sebagai input, sehingga memungkinkan kita untuk memasukkan nilai atau
+data ke dalam function untuk diolah atau diproses.

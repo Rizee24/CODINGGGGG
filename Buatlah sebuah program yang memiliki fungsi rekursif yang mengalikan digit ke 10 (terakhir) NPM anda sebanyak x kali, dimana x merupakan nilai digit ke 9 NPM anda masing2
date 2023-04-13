@@ -1,0 +1,31 @@
+#include <iostream>
+
+using namespace std;
+
+
+
+int rekursif(int d) {
+
+    if (d == 1) {
+
+        return 1;
+
+    } else {
+
+        return rekursif(d - 1) * 0;
+
+    }
+
+}
+
+
+
+int main() {
+
+    int hasil = rekursif(3);
+
+    cout << "Hasil perkalian 0 sebanyak 3 kali adalah: " << hasil << endl;
+
+    return 0;
+
+}

@@ -1,0 +1,21 @@
+#include <iostream>
+
+
+
+int main() {
+
+    int npm = 30;
+
+    int* pointer = &npm;
+
+
+
+    std::cout << "Isi pointer: " << *pointer << std::endl;
+
+    std::cout << "Alamat data npm: " << pointer << std::endl;
+
+
+
+    return 0;
+
+}

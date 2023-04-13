@@ -1,0 +1,13 @@
+#include <iostream>
+
+#define NPM 30
+
+
+
+int main() {
+
+  std::cout << "Bilangan terkecil: " << (NPM % 10) << std::endl;
+
+  return 0;
+
+}

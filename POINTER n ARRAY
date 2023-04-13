@@ -1,0 +1,21 @@
+Array adalah tipe data yang digunakan untuk menyimpan sejumlah variabel dengan tipe
+data yang sama dalam satu lokasi memori, yang diidentifikasi oleh sebuah nama. Array
+dapat digunakan untuk mempermudah penggunaan variabel dalam program.
+
+Sebuah pointer adalah variabel yang nilainya adalah alamat dari variabel lain, yaitu alamat
+langsung dari lokasi memori. Seperti variabel atau konstanta lainnya, Anda harus
+mendeklarasikan sebuah pointer sebelum menggunakannya untuk menyimpan alamat
+variabel apapun.
+
+ARRAY CHAR DATA:
+#include <iostream>
+using namespace std;
+
+int main(){
+char name[20];
+
+cout<<"Please enter ur name : ";
+cin>>name;
+
+cout<<"hello, "<<name<<"i"<<endl;
+}

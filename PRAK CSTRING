@@ -1,0 +1,5 @@
+C-string adalah urutan karakter yang disimpan dalam blok memori berurutan seperti array
+dan diakhiri dengan karakter Null ('\0'). Karakter string dapat mencakup huruf, angka, dan
+simbol khusus seperti +, –,*, [],(), dll., tetapi bukan escape character. String juga biasanya
+disebut sebagai kumpulan dari char.
+
